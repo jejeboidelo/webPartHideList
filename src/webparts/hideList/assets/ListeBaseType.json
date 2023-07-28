@@ -1,0 +1,22 @@
+[
+    {
+        "key" : "0",
+        "text": "Liste générique"
+    },
+    {
+        "key" : "1",
+        "text": "Liste de document"
+    },
+    {
+        "key" : "3",
+        "text": "Forum de discussion"
+    },
+    {
+        "key" : "4",
+        "text": "Etude (Survey)"
+    },
+    {
+        "key" : "5",
+        "text": "Problème (Issue)"
+    }
+]

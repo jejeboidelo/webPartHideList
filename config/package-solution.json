@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "dosiScDev_WebPart_cacheListe",
+    "id": "7f3215d7-7292-4b7a-8527-de1f5bbfa993",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "WebPart HideList, permettant de cacher les listes du site sur lequel elle est déployé"
+      },
+      "longDescription": {
+        "default": "WebPart HideList, permettant de cacher les listes du site sur lequel elle est déployé"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "dosiScDev_WebPart_cacheListe",
+        "description": "Package contenant la webPart HideList, permettant de cacher les listes du site sur lequel elle est déployé",
+        "id": "23085f35-4516-4109-bc1d-3929ede3685b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/package_WebPart_cacheListe.sppkg"
+  }
+}

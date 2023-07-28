@@ -1,0 +1,238 @@
+[
+{
+    "key":"-9999",
+    "text":"Tout"
+},  
+{
+    "key":"100",
+    "text":"GenericList"
+},
+{
+    "key":"101",
+    "text":"DocumentLibrary"
+},
+{
+    "key":"102",
+    "text":"Survey"
+},
+{
+    "key":"103",
+    "text":"Links"
+},
+{
+    "key":"104",
+    "text":"Announcements"
+},
+{
+    "key":"105",
+    "text":"Contacts"
+},
+{
+    "key":"106",
+    "text":"Events"
+},
+{
+    "key":"107",
+    "text":"Tasks"
+},
+{
+    "key":"108",
+    "text":"DiscussionBoard"
+},
+{
+    "key":"109",
+    "text":"PictureLibrary"
+},
+{
+    "key":"110",
+    "text":"DataSources"
+},
+{
+    "key":"111",
+    "text":"WebTemplateCatalog"
+},
+{
+    "key":"112",
+    "text":"UserInformation"
+},
+{
+    "key":"113",
+    "text":"WebPartCatalog"
+},
+{
+    "key":"114",
+    "text":"ListTemplateCatalog"
+},
+{
+    "key":"115",
+    "text":"XMLForm"
+},
+{
+    "key":"116",
+    "text":"MasterPageCatalog"
+},
+{
+    "key":"117",
+    "text":"NoCodeWorkflows"
+},
+{
+    "key":"118",
+    "text":"WorkflowProcess"
+},
+{
+    "key":"119",
+    "text":"WebPageLibrary"
+},
+
+{
+    "key":"120",
+    "text":"CustomGrid"
+},
+{
+    "key":"121",
+    "text":"SolutionCatalog"
+},
+{
+    "key":"122",
+    "text":"NoCodePublic"
+},
+{
+    "key":"123",
+    "text":"ThemeCatalog"
+},
+{
+    "key":"124",
+    "text":"DesignCatalog"
+},
+{
+    "key":"125",
+    "text":"AppDataCatalog"
+},
+{
+    "key":"130",
+    "text":"DataConnectionLibrary"
+},
+{
+    "key":"140",
+    "text":"WorkflowHistory"
+},
+{
+    "key":"150",
+    "text":"GanttTasks"
+},
+{
+    "key":"151",
+    "text":"HelpLibrary"
+},
+{
+    "key":"160",
+    "text":"AccessRequest"
+},
+{
+    "key":"171",
+    "text":"TasksWithTimelineAndHierarchy"
+},
+{
+    "key":"175",
+    "text":"MaintenanceLogs"
+},
+{
+    "key":"200",
+    "text":"Meetings"
+},
+{
+    "key":"201",
+    "text":"Agenda"
+},
+{
+    "key":"202",
+    "text":"MeetingUser"
+},
+{
+    "key":"204",
+    "text":"Decision"
+},
+{
+    "key":"207",
+    "text":"MeetingObjective"
+},
+{   "key":"210",
+    "text":"TextBox"
+},
+{
+    "key":"211",
+    "text":"ThingsToBring"
+},
+{
+    "key":"212",
+    "text":"HomePageLibrary"
+},
+{
+    "key":"301",
+    "text":"Posts"
+},
+{
+    "key":"302",
+    "text":"Comments"
+},
+{
+    "key":"303",
+    "text":"Categories"
+},
+{
+    "key":"402",
+    "text":"Facility"
+},
+{
+    "key":"403",
+    "text":"Whereabouts"
+},
+{
+    "key":"404",
+    "text":"CallTrack"
+},
+{
+    "key":"405",
+    "text":"Circulation"
+},
+{
+    "key":"420",
+    "text":"Timecard"
+},
+{
+    "key":"421",
+    "text":"Holidays"
+},
+{
+    "key":"499",
+    "text":"IMEDic"
+},
+{
+    "key":"600",
+    "text":"ExternalList"
+},
+{
+    "key":"700",
+    "text":"MySiteDocumentLibrary"
+},
+{
+    "key":"1100",
+    "text":"IssueTracking"
+},
+{
+    "key":"1200",
+    "text":"AdminTasks"
+},
+{
+    "key":"1220",
+    "text":"HealthRules"
+},
+{
+    "key":"1221",
+    "text":"HealthReports"
+},
+{
+    "key":"1230",
+    "text":"DeveloperSiteDraftApps"
+}
+]
